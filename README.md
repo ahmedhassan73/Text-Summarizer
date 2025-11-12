@@ -71,8 +71,6 @@ python train_t5.py
 # or
 python app.py
 
-5. (Optional) Run the Gradio/Streamlit app
-streamlit run app.py
 
 🧩 License
 
@@ -85,23 +83,17 @@ Python Version: 3.10 or above
 GPU Recommended: Yes (for fine-tuning transformers)
 
 Libraries:
-
 transformers
-
 datasets
-
 torch
-
 rouge-score
 
 
 Author
-
 Ahmed Hassan
-Data Science & AI Engineer
 Portfolio
  | LinkedIn
+
  | GitHub
 =======
-# Text-Summarizer
->>>>>>> 7052632fcba52e2b0af48bb7777abee212159e32
+
