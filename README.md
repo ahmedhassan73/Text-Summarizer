@@ -91,10 +91,11 @@ rouge-score
 Author
 Ahmed Hassan
 Portfolio
- | LinkedIn
+ | [LinkedIn](https://www.linkedin.com/in/ahmedhassan731/)
 
- | GitHub
+ | [GitHub](https://github.com/ahmedhassan73)
 =======
+
 
 
 
