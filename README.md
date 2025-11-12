@@ -47,7 +47,7 @@ Example:
 
 ## ✍️ Medium Article
 For a detailed walkthrough of this project:  
-**Medium Link:** [🔗 Read Article](#) *[(https://medium.com/@techwithahmedhassan/text-summarization-using-transformer-models-t5-pegasus-d6ff1124887b)]*
+**Medium Link:** [🔗 Read Article](#)] (https://medium.com/@techwithahmedhassan/text-summarization-using-transformer-models-t5-pegasus-d6ff1124887b)
 
 ---
 
@@ -96,5 +96,6 @@ Portfolio
 
  | GitHub
 =======
+
 
 
