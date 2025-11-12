@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 Text Summarization using Transformer Models
 
 ## 📘 Project Title & Description
