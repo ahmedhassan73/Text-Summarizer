@@ -70,6 +70,7 @@ python train_t5.py
 # or
 python app.py
 
+```
 
 🧩 License
 
@@ -95,6 +96,7 @@ Portfolio
 
  | [GitHub](https://github.com/ahmedhassan73)
 =======
+
 
 
 
