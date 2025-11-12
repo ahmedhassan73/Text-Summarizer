@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> cb72be67bfa42f37b8bd049bca276b364679fe72
 # 🧠 Text Summarization using Transformer Models
 
 ## 📘 Project Title & Description
@@ -47,7 +50,7 @@ Example:
 
 ## ✍️ Medium Article
 For a detailed walkthrough of this project:  
-**Medium Link:** [🔗 Read Article](#) *[(Add your Medium article link here)](https://medium.com/@techwithahmedhassan/text-summarization-using-transformer-models-t5-pegasus-d6ff1124887b)*
+**Medium Link:** [🔗 Read Article](https://medium.com/@techwithahmedhassan/text-summarization-using-transformer-models-t5-pegasus-d6ff1124887b)
 
 ---
 
@@ -71,8 +74,7 @@ python train_t5.py
 # or
 python app.py
 
-5. (Optional) Run the Gradio/Streamlit app
-streamlit run app.py
+```
 
 🧩 License
 
@@ -85,23 +87,29 @@ Python Version: 3.10 or above
 GPU Recommended: Yes (for fine-tuning transformers)
 
 Libraries:
-
 transformers
-
 datasets
-
 torch
-
 rouge-score
 
 
 Author
-
 Ahmed Hassan
-Data Science & AI Engineer
 Portfolio
+<<<<<<< HEAD
  | LinkedIn
  | GitHub
 =======
 # Text-Summarizer
 >>>>>>> 7052632fcba52e2b0af48bb7777abee212159e32
+=======
+ | [LinkedIn](https://www.linkedin.com/in/ahmedhassan731/)
+
+=======
+
+
+
+
+
+
+>>>>>>> cb72be67bfa42f37b8bd049bca276b364679fe72
