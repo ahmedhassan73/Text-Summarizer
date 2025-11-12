@@ -1,0 +1,5 @@
+{
+  "precision": "fp16",
+  "pruning": "40% L1 unstructured",
+  "original_size_mb": 233.92380619049072
+}
