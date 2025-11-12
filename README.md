@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Text Summarization using Transformer Models
 
 ## 📘 Project Title & Description
@@ -101,3 +102,6 @@ Data Science & AI Engineer
 Portfolio
  | LinkedIn
  | GitHub
+=======
+# Text-Summarizer
+>>>>>>> 7052632fcba52e2b0af48bb7777abee212159e32
