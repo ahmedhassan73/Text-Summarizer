@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> cb72be67bfa42f37b8bd049bca276b364679fe72
 # 🧠 Text Summarization using Transformer Models
 
 ## 📘 Project Title & Description
@@ -43,8 +39,6 @@ We experimented with and fine-tuned the following pre-trained transformer models
 ## 🚀 Deployment
 **Deployment Link:** [🔗 View Demo](#) *(Add your Hugging Face Space / Streamlit / Gradio link here once deployed)*
 
-Example:  
-`https://huggingface.co/spaces/ahmedhassan/text-summarizer`  
 
 ---
 
@@ -95,17 +89,10 @@ rouge-score
 
 Author
 Ahmed Hassan
-Portfolio
-<<<<<<< HEAD
- | LinkedIn
- | GitHub
-=======
-# Text-Summarizer
->>>>>>> 7052632fcba52e2b0af48bb7777abee212159e32
-=======
  | [LinkedIn](https://www.linkedin.com/in/ahmedhassan731/)
 
 =======
+
 
 
 
