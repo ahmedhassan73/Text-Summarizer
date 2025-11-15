@@ -37,7 +37,7 @@ We experimented with and fine-tuned the following pre-trained transformer models
 ---
 
 ## 🚀 Deployment
-**Deployment Link:** [🔗 View Demo](#) *(Add your Hugging Face Space / Streamlit / Gradio link here once deployed)*
+**Deployment Link:** [🔗 View Demo](https://smart-document-summarizer.streamlit.app/)
 
 
 ---
@@ -92,4 +92,5 @@ Ahmed Hassan
  | [LinkedIn](https://www.linkedin.com/in/ahmedhassan731/)
 
 =======
+
 
